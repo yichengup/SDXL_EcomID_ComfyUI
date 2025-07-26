@@ -4,6 +4,7 @@
 </div>
 
 # ComfyUI EcomID (Native Support)
+### 在原插件的基础上 补充 requirements.txt 里的缺失依赖
 
 Native [SDXL-EcomID](https://huggingface.co/alimama-creative/SDXL-EcomID) support for [ComfyUI](https://github.com/comfyanonymous/ComfyUI).
 
